@@ -1,0 +1,43 @@
+{
+    "name": "DSC Mate #0 - Kakun",
+    "description": "This image is stored on-chain with the following code: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAYFBMVEUAAAAAAAwAAA8A/wABACECACIDACQaamseGmUfJ1cgHWkgKFkhKVojLF4pMmgpnSMqM2orNGwrNW0tNm9Wc4pjhpZoYGBt//+NjY2RkYWuvMy0tLTDvLTr6+v31gL/AAA27v6iAAAA7ElEQVR4nHWSa0+DMBSGD9NSugl+UCZK0///u2oD0frFppFUaefphqzM8ST0kid9D71sxAobWCERWXZdZIfDVaG6PqIuhOq2VcnKkmxfF0LtCPkZIYR83KlU3IbCW2uNMd9foJY1LLubYOosxuETBjsxJCsCefiDBM5nIcFpBEdaO5zNQuDXts2NztumSX9XAq3BargHLPAoZiGfVg5RvGHjWQ3EMwYfSVRc7JEsNpeHqM3/KMQZ6ow+AlKeBWZV1FEKz5zvOZdpFJqqqnvl80XUS4w7br6f6k+i26M8PQ+8RpFEvRdFdxqhi90v9FdwrBOSHhIAAAAASUVORK5CYII=\n\nOwner Contact Info\n\nTwitter: @kakun1992\n\n",
+    "image": "https://storage.googleapis.com/dsc-mate/336/dscMate-0.png",
+    "background_color": "#F6D613",
+    "sendable": true,
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 6,
+            "max_value": 11
+        },
+        {
+            "trait_type": "Face",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "Face Detail A",
+            "value": "Green Cyclops Eye"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Silver Chain"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Horned Rim Glasses"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Short Peak Cap"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Jade Earring"
+        },
+        {
+            "trait_type": "Items",
+            "value": "Whistle"
+        }
+    ],
+    "external_url": "https://dogesound.club/mates/0"
+}
